@@ -1,5 +1,5 @@
 print("what is you name")
 name = input()
-print("what is your favorite invetion idea")
+print("what is your favorite idea?")
 idea = input()
-print("hi  " + name+", "+"your idea "+idea+" might change the world!")
+print(f"hi {name}, your idea {idea} might change the world!")
